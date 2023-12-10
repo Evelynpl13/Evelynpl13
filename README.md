@@ -8,7 +8,7 @@ Soy Economista y una apasionada por el mundo de los datos.
 
 - 👀 Actualmente soy gerente general de una empresa manufacturera, y he complementado mi formación para asumir nuevos retos en mi ámbito profesional. 
 
-- 🌱 Me he preparando para dominar lenguajes de programacion como SQL y recientemente Python, así como POWER BI como herramientas de visualización de datos.
+- 🌱 Me he preparando para dominar lenguajes de programacion como SQL y recientemente Python, así como también POWER BI para la visualización de datos.
   
 - 💞️ Me encanta el poder transformador que tienen los datos para la toma de decisiones 
 
