@@ -1,6 +1,6 @@
 
 
-## 🚀 About Me
+## 🚀 Acerca de mi...
 👋 Hola, soy Evelyn. Gracias por visitar mi repositorio 
 
 Soy Economista, apasionada por el campo del analisis y la ciencia de datos
