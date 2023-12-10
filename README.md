@@ -1,17 +1,18 @@
-## Descubriendo informacion gracias al poder de los datos... 
+## Descubriendo información valiosa gracias al poder de los datos... 
 
 ## 🚀 Acerca de mi...
-👋 Hola, soy Evelyn. Gracias por visitar mi repositorio 
 
-Soy Economista, apasionada por el campo del analisis y la ciencia de datos
+👋 Hola, soy Evelyn. ¡Me encanta tenerte por aquí!
 
-- 👀 Actualmente soy gerente general de una empresa manufacturera, pero he dado un giro a mi formación para asumir nuevos retos en mi ámbito profesional. 
+Soy Economista y una apasionada por el mundo de los datos. 
 
-- 🌱 Me he preparando para dominar lenguajes de programacion como SQL y recientemente Python, sin dejar de lado el manejo de herramientas de visualización de datos como POWER BI. 
+- 👀 Actualmente soy gerente general de una empresa manufacturera, y he complementado mi formación para asumir nuevos retos en mi ámbito profesional. 
 
+- 🌱 Me he preparando para dominar lenguajes de programacion como SQL y recientemente Python, así como POWER BI como herramientas de visualización de datos.
+  
 - 💞️ Me encanta el poder transformador que tienen los datos para la toma de decisiones 
 
-- 📫 Quieres contactarte conmigo? www.linkedin.com/in/evelynpérez
+- 📫 Puedes encontrarme en:  www.linkedin.com/in/evelynpérez
 
 
 ## 🔗 Links
